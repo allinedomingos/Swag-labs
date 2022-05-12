@@ -36,8 +36,8 @@ Automation project used Cypress with Cucumber.
   "viewportWidth": 1366,
   "viewportHeight": 768,
   "baseUrl":"https://www.saucedemo.com/",
-  "defaultCommandTimeout": 10000,
-  "pageLoadTimeout": 10000
+  "chromeWebSecurity": false
+ 
 }
 
 ```
