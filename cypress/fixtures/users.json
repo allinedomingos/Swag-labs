@@ -1,0 +1,19 @@
+{
+  
+    "standard": {
+        "user": "standard_user",
+        "password": "secret_sauce"
+    },
+
+    "locked": {
+        "user": "locked_out_user",
+        "password": "secret_sauce"
+    },
+
+    "non": {
+        "user": "user",
+        "password": "secret"
+    }
+
+    
+}
